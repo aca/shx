@@ -1,0 +1,7 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/shx@v0.1.0/mod.ts": "c370a2deb41cbbe234ce5a18ea0d020af2150e268b5cd5cd31225734697b53a0",
+    "https://raw.githubusercontent.com/aca/shx/main/mod.ts": "c370a2deb41cbbe234ce5a18ea0d020af2150e268b5cd5cd31225734697b53a0"
+  }
+}
